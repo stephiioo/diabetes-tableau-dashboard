@@ -1,3 +1,7 @@
 # diabetes-tableau-dashboard
 
-### this is the diabetes tableau dashboard that visualizes the cleaned diabtetes dataset
+### this repo consists of:
+
+#### - the final cleaned diabetes dataset
+
+#### - a tableau packaged workbook consisting of a dashboard and graphs that visualizes the cleaned diabetes dataset
